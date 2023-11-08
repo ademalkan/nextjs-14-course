@@ -6,6 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 ## [Next.js  14 Course Click](https://nextjs.org/learn/dashboard-app)
+## [Visit the application](https://nextjs-14-course-plum.vercel.app/)
 
 
 ## Views from the application
